@@ -1,0 +1,6 @@
+node_modules
+/prism/dev.db
+/.cache
+/build
+/public/build
+.env
